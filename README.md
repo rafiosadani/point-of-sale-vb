@@ -1,1 +1,1 @@
-Project Point of Sale yang dikerjakan menggunakan bahasa pemrograman Visual Basic .NET. di dalam project ini masih banyak kekurangan, dan masih belum ada databasenya dikarenakan lupa tidak dibackup hehehe
+Project Point of Sale yang dikerjakan menggunakan bahasa pemrograman Visual Basic .NET. Dalam project ini masih banyak kekurangan, dan masih belum ada databasenya dikarenakan lupa tidak dibackup hehehe
